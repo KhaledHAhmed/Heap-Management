@@ -1,5 +1,5 @@
-#include <assert.h>
 #include <stdio.h>
+#include <assert.h>
 #include <string.h>
 #include <stdbool.h>
 #include <unistd.h>
